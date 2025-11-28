@@ -13,6 +13,14 @@ The "intersystems-load-data" allows you import csv and txt content into InterSys
 
 It is required have an InterSystems IRIS instance running into a docker container.
 
+## How to install
+
+1. Clone the project (or download): git clone https://github.com/yurimarx/vscode-load-data.git
+2. Go to extensions
+3. Click ... button on top of extensions viewer
+4. Choose the option Install from VSIX...
+5. Select the file intersystems-load-data-0.0.1.vsix from your local folder
+
 ## How to use
 
 1. Go to the .vscode/settings.json and configure:
